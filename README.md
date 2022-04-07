@@ -1,6 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Saman Keighobadi </h1>
 
-
+ ###  &nbsp;About Me
+ 💡 &nbsp;  I love programming and I enjoy challenges.
+ 
+ 🌱 &nbsp; I'm interested in learning new things, especially in programming.
+ 
+ 🎓 &nbsp;  I'm currently learn blockchain Technology.
 
 ### My Experience: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
