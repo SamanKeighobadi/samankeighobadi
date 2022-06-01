@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I am Saman Keighobadi </h1>
+<h1 align="center">Hi, I am Saman Keighobadi </h1>
 
 > "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to ? determine what to do with them." <h5> - Andrew Hunt - </h5>
 
