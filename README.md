@@ -11,7 +11,7 @@
  
  🌱 &nbsp; I'm interested in learning new things, especially in programming.
  
- 🎓 &nbsp;  I'm currently learn blockchain Technology.
+ 
 
 
 ### My Experience: 
