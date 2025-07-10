@@ -15,8 +15,6 @@ I'm a Front-End Developer with over 3 years of experience building responsive we
 ### 📫 Let's Connect!
 - 📧 Email: saman.keighobadi@gmail.com
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/saman-keighobadi-25151631b/)) 
-- Resume: Available upon request for job inquiries.
-
 
 
 ### My Experience: 
@@ -38,3 +36,6 @@ I'm a Front-End Developer with over 3 years of experience building responsive we
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=flat)
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?logo=ant-design&logoColor=white&style=flat)
+![Zustand](https://img.shields.io/badge/-Zustand-764ABC?logo=react&logoColor=white&style=flat)
+![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-E33332?logo=jest&logoColor=white&style=flat)
+![ApexCharts](https://img.shields.io/badge/-ApexCharts-00D8B6?logo=apexcharts&logoColor=white&style=flat)
