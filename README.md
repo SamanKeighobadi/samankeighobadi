@@ -1,21 +1,21 @@
-<h1 align="center">Hi, I am Saman Keighobadi </h1>
+# 👋 Hi, I'm Saman Keighobadi!
 
-> "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to ? determine what to do with them." <h5> - Andrew Hunt - </h5>
-
-
+I'm a Front-End Developer with over 3 years of experience building responsive web apps using **React**, **Next.js**, **TypeScript**, **TailwindCSS**, **Bootstrap**, and **SASS**. I'm expanding my skills with **Vue.js**, and also bring expertise in **Docker**, **Python**, **Django**, and **FastAPI** from working with private companies. Passionate about clean code and innovative solutions! 🚀 Open to new opportunities!
 
 
 
 
+### 🔧 Skills
+- **Front-End**: React, Next.js, TypeScript, Vue.js, TailwindCSS, Bootstrap, SASS
+- **Back-End & Tools**: Python, Django, FastAPI, Docker, Git, npm, Node.js
+- **Learning**: Exploring advanced full-stack development and optimization
 
 
- ###  &nbsp;About Me
- 💡 &nbsp;  I love programming and I enjoy challenges.
- 
- 🌱 &nbsp; I'm interested in learning new things, especially in programming.
- 
- 
 
+### 📫 Let's Connect!
+- 📧 Email: [your-email@example.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) (if available)
+- Resume: Available upon request for job inquiries.
 
 
 
