@@ -14,7 +14,7 @@ I'm a Front-End Developer with over 3 years of experience building responsive we
 
 ### 📫 Let's Connect!
 - 📧 Email: saman.keighobadi@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/saman-keighobadi-25151631b/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/saman-keighobadi-25151631b/)
 
 
 ### My Experience: 
